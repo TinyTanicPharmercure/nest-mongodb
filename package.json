@@ -1,6 +1,6 @@
 {
     "name": "@pharmercure/nest-mongodb",
-    "version": "6.4.1",
+    "version": "6.4.2",
     "description": "A NestJS module for the MongoDB driver",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
